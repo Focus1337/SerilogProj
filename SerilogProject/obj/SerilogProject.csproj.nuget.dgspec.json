@@ -44,11 +44,11 @@
             },
             "Serilog.AspNetCore": {
               "target": "Package",
-              "version": "[6.1.0, )"
+              "version": "[6.1.1-dev-00295, )"
             },
             "Serilog.Settings.Configuration": {
               "target": "Package",
-              "version": "[3.4.0, )"
+              "version": "[4.0.0-dev-00486, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
